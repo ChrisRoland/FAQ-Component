@@ -4,10 +4,10 @@ $("button").on("click", function () {
 });
 
 //Vanilla JS
-const toggle = document.querySelectorAll(".faq-toggle");
+// const toggle = document.querySelectorAll(".faq-toggle");
 
-toggle.forEach((btn) => {
-  btn.addEventListener("click", () => {
-    btn.parentNode.classList.toggle("active");
-  });
-});
+// toggle.forEach((btn) => {
+//  btn.addEventListener("click", () => {
+//    btn.parentNode.classList.toggle("active");
+//  });
+// });
