@@ -102,3 +102,10 @@ h1 {
 .faq.active .faq-toggle {
     background-color: #9fa4a8;
 }
+
+@media (max-width: 450px) {
+    .faq-container {
+    max-width: 90%;
+    margin: 0 auto;
+}
+}
